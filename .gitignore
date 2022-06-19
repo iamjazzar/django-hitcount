@@ -1,3 +1,9 @@
+.cache/
+.tox/
+.coverage
+db.sqlite3
+geckodriver.log
+*.egg-info/
 *.pyc
 *~
 .DS_Store
